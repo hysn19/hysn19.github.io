@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: 김준철
+name: Nature Labs
 
 # Short bio or description (displayed in the header)
-description: the lord is my shepherd
+description: Stay Hungry, Stay Foolish
 
 #
 # Flags below are optional
@@ -14,7 +14,7 @@ description: the lord is my shepherd
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: https://raw.githubusercontent.com/aweekj/kiko-now/master/images/jekyll-logo.png
-avatar: https://media.giphy.com/media/3b7NAZkuMqic0MzyK9/giphy.gif
+avatar: https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
